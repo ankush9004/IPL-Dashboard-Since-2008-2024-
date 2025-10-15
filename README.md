@@ -1,6 +1,6 @@
 # Indian Premier League 2008-2024: A Visual Analysis
 
-This project is a dashboard that visually analyzes key statistics and outcomes from the inaugural 2008 season of the Indian Premier League (IPL).
+This project is a dashboard that visually analyzes key statistics and outcomes from the inaugural 2008 - 2024 season of the Indian Premier League (IPL).
 
 ## 📊 Dashboard Preview
 
